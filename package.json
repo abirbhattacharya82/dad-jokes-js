@@ -1,0 +1,24 @@
+{
+  "name": "daddy-jokes",
+  "version": "1.0.0",
+  "description": "a package that randomly tells you dad jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abirbhattacharya82/dad-jokes-js.git"
+  },
+  "keywords": [
+    "dad-jokes",
+    "jokes",
+    "funny"
+  ],
+  "author": "abir82",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abirbhattacharya82/dad-jokes-js/issues"
+  },
+  "homepage": "https://github.com/abirbhattacharya82/dad-jokes-js#readme"
+}
