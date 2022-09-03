@@ -35,6 +35,7 @@ To contribute to daddy-jokes you can add your own dad jokes and increase our hug
 5. Commit your changes
 6. Create a pull request
 <br>
+
 We are going to review the pull request and merge it if it is a good __dad__ joke.
 
 ## Guidelines
