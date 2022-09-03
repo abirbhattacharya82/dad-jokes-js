@@ -1,6 +1,6 @@
 {
   "name": "daddy-jokes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a package that randomly tells you dad jokes",
   "main": "index.js",
   "scripts": {
