@@ -22,7 +22,9 @@ console.log(daddy_jokes());
 ## How can you contribute?
 To contribute to daddy-jokes you can add your own dad jokes and increase our huge collection of dad jokes. To do that follow the steps below:
 1. Fork the repository
+![](src/1.gif)
 2. Go to [jokes.json](db/jokes.json)
+![](src/2.gif)
 3. Check the joke id of the last joke
 4. put your own joke in the format
 ```
@@ -33,7 +35,9 @@ To contribute to daddy-jokes you can add your own dad jokes and increase our hug
 }
 ```
 5. Commit your changes
+![](src/3.gif)
 6. Create a pull request
+![](src/4.gif)
 <br>
 
 We are going to review the pull request and merge it if it is a good __dad__ joke.
