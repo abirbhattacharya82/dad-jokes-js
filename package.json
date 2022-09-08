@@ -1,6 +1,6 @@
 {
   "name": "daddy-jokes",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "a package that randomly tells you dad jokes",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,5 @@
   "bugs": {
     "url": "https://github.com/abirbhattacharya82/dad-jokes-js/issues"
   },
-  "homepage": "https://github.com/abirbhattacharya82/dad-jokes-js#readme"
+  "homepage": "https://abirbhattacharya82.github.io/daddy-jokes/"
 }

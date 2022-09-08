@@ -1,4 +1,5 @@
-# daddy-jokes
+# daddy-jokes [![](https://img.shields.io/badge/-npm-red)](https://www.npmjs.com/package/daddy-jokes) ![](https://img.shields.io/github/forks/abirbhattacharya82/dad-jokes-js) ![](https://img.shields.io/github/stars/abirbhattacharya82/dad-jokes-js)
+
 A dad joke is a short joke, typically a pun, presented as a one-liner or a question and answer, but not a narrative. Generally inoffensive, dad jokes are stereotypically told with sincere humorous intent, or to intentionally provoke a negative reaction to their overly-simplistic humor.
 <br>
 Many dad jokes may be considered anti-jokes, deriving humor from an intentionally not funny punchline.
