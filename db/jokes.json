@@ -25,7 +25,7 @@
     },
     {
         "id":"6",
-        "joke":"Why do fathers take an extra pair of socks when they go golfing?In case they get a hole in one!"
+        "joke":"Why do fathers take an extra pair of socks when they go golfing? In case they get a hole in one!"
     },
     {
         "id":"7",
@@ -37,10 +37,6 @@
     },
     {
         "id":"9",
-        "joke":"Why did the golfer bring two pairs of pants? Just in case he got a hole in one."
-    },
-    {
-        "id":"10",
         "joke":"Why are fish so smart? Because they swim in schools."
     }
 ]
