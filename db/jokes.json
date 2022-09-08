@@ -26,5 +26,21 @@
     {
         "id":"6",
         "joke":"Why do fathers take an extra pair of socks when they go golfing?In case they get a hole in one!"
+    },
+    {
+        "id":"7",
+        "joke":"What do you call a bear with no teeth? A gummy bear."
+    },
+    {
+        "id":"8",
+        "joke":"What do you call a cheese that isn’t yours? Nacho cheese!"
+    },
+    {
+        "id":"9",
+        "joke":"Why did the golfer bring two pairs of pants? Just in case he got a hole in one."
+    },
+    {
+        "id":"10",
+        "joke":"Why are fish so smart? Because they swim in schools."
     }
 ]
