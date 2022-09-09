@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id":"0",
         "joke":"My wife said I should do lunges to stay in shape. That would be a big step forward."
@@ -38,5 +38,9 @@
     {
         "id":"9",
         "joke":"Why are fish so smart? Because they swim in schools."
+    },
+    {
+	"id":"10",
+	"joke":"How do celebrities stay cool? They have many fans"
     }
 ]
