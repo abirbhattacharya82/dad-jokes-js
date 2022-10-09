@@ -40,7 +40,19 @@
         "joke":"Why are fish so smart? Because they swim in schools."
     },
     {
-	"id":"10",
-	"joke":"How do celebrities stay cool? They have many fans"
+	    "id":"10",
+	    "joke":"How do celebrities stay cool? They have many fans"
+    },
+    {
+        "id":"11",
+        "joke":"What do you call a Kissan(farmer) stuck in a traffic jam? Kissan Jam!"
+    },
+    {
+        "id":"12",
+        "joke":"How many tickles does it take to make an octopus laugh? Ten-tickles."
+    },
+    {
+        "id":"13",
+        "joke":"Why did the math book look so sad? Because of all its problems!"
     }
 ]
