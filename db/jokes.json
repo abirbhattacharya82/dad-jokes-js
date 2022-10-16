@@ -54,5 +54,9 @@
     {
         "id":"13",
         "joke":"Why did the math book look so sad? Because of all its problems!"
+    },
+	 {
+        "id":"17",
+        "joke":"Did you hear about the man who cut off his left leg? He’s all right now."
     }
 ]
